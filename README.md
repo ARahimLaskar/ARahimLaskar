@@ -52,25 +52,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arahimlaskar&show_icons=true&locale=en" alt="arahimlaskar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arahimlaskar&" alt="arahimlaskar" /></p>
-
-<!-- Include the library. -->
-<script
-  src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js">
-</script>
-
-<!-- Optionally, include the theme (if you don't want to struggle to write the CSS) -->
-<link
-  rel="stylesheet"
-  href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"
-/>
-
-<!-- Prepare a container for your calendar. -->
-
-<script>
-    GitHubCalendar(".calendar", "ARahimLaskar");
-
-    // or enable responsive functionality:
-    GitHubCalendar(".calendar", "ARahimLaskar", { responsive: true });
-
-   
-</script>
