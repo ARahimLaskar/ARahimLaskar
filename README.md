@@ -72,10 +72,5 @@
     // or enable responsive functionality:
     GitHubCalendar(".calendar", "ARahimLaskar", { responsive: true });
 
-    // Use a proxy
-    GitHubCalendar(".calendar", "ARahimLaskar", {
-       proxy (username) {
-         return fetch(`https://your-proxy.com/github?user=${username}`)
-       }
-    }).then(r => r.text())
+   
 </script>
