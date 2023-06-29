@@ -5,7 +5,7 @@
 <!-- <h2 align="left">I am pleased to introduce myself as a highly skilled and aspiring web developer with expertise in both front-end and back-end development. With a deep passion for creating innovative and user-centric web solutions, I have acquired comprehensive knowledge and hands-on experience in various web technologies and frameworks.</h2>
 <img align="right" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt=""> -->
 
-- 👨‍💻 All of my projects are available at [https://arahimlaskar.github.io/](https://arahimlaskar.github.io/)
+- 👨‍💻 All of my projects are available at [https://ARahimLaskar.github.io/](https://ARahimLaskar.github.io/)
 
 - 📫 How to reach me **arlaskar1002@gmail.com**
 
