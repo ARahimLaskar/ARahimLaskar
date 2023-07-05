@@ -21,10 +21,11 @@
 <br/>
 
 <div>
-  <h3>GitHub Trophies: </h3><br/>
+  <h3>GitHub Trophies: </h3>
   <img src="https://github-profile-trophy.vercel.app/?username=ARahimLaskar">
 </div>
 
+<div display="flex" justify-content="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ARahimLaskar&show_icons=true&locale=en&layout=compact" alt="ARahimLaskar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ARahimLaskar&show_icons=true&locale=en" alt="ARahimLaskar" /></p>
