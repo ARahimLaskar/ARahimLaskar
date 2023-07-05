@@ -1,19 +1,3 @@
-<h1>And I'm a <br /><span class="multiple-text"></span></h1>
-<script>
-    const typed = new Typed(".multiple-text", {
-  strings: [
-    "Full Stack Web Developer",
-    "With a deep passion for creating web solutions",
-    "innovative and user-centric",
-  ],
-  typeSpeed: 100,
-  backSpeed: 100,
-  backDelay: 1000,
-  loop: true,
-  smartBackspace: true, // Enables smart backspacing to simulate typing forward and backward
-});
-</script>
-
 <h1 align="center">Hi 👋, I'm Abdul Rahim Laskar</h1>
 <div display="flex">
 <h2 align="left">I am pleased to introduce myself as a highly skilled and aspiring web developer with expertise in both front-end and back-end development. With a deep passion for creating innovative and user-centric web solutions, I have acquired comprehensive knowledge and hands-on experience in various web technologies and frameworks.</h2>
