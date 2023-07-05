@@ -21,7 +21,7 @@
 <br/>
 
 <div>
-  <img src="https://github-profile-trophy.vercel.app/?username=ARahimLaskar&theme=flat">
+  <img src="https://github-profile-trophy.vercel.app/?username=ARahimLaskar">
 </div>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ARahimLaskar&show_icons=true&locale=en&layout=compact" alt="ARahimLaskar" /></p>
