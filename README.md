@@ -25,7 +25,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ARahimLaskar">
 </div>
 
-<div display: flex align-items: center>
+<div display="flex" align-items="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ARahimLaskar&show_icons=true&locale=en&layout=compact" alt="ARahimLaskar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ARahimLaskar&show_icons=true&locale=en" alt="ARahimLaskar" /></p>
