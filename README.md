@@ -28,13 +28,12 @@
 <!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
 <!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
 <!-- Change the value after ?username= to your GitHub username. -->
-<div class="status"  align="center">
+<div class="stats" align="center">
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARahimLaskar&show_icons=true&theme=algolia&border_radius=20)
 
-<p>
- <img src="https://github-readme-stats.vercel.app/api?username=ARahimLaskar&show_icons=true&theme=transparent"/>
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ARahimLaskar&show_icons=true&locale=en" alt="ARahimLaskar" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ARahimLaskar&show_icons=true&locale=en&layout=compact" alt="ARahimLaskar" />/p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ARahimLaskar" alt="ARahimLaskar" /></p>
+ ![GitHub Streak](https://streak-stats.demolab.com?user=ARahimLaskar&count_private=true&theme=algolia&border_radius=20)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARahimLaskar&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 
 ## 🏆 GitHub Trophies 
