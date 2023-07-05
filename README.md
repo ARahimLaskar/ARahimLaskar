@@ -58,6 +58,6 @@
 - My GitHub Portfolio Page:
 https://ARahimLaskar.github.io
 - My Resume:
-https://www.dropbox.com/s/6gn2ow2n6oygqgy/Sumit-Saurabh-Resume.pdf?dl=0
+https://drive.google.com/file/d/1HFqfkwyMAvqSWWHvsYZz1EusetNFOOpF/view?usp=sharing
 - Email me:
-https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=sumitsaurabh112@gmail.com
+https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=arlaskar1002@gmail.com
