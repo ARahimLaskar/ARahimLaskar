@@ -21,6 +21,7 @@
 <br/>
 
 <div>
+  <h3>GitHub Trophies: </h3><br/>
   <img src="https://github-profile-trophy.vercel.app/?username=ARahimLaskar">
 </div>
 
