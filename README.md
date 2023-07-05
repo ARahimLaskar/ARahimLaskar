@@ -19,7 +19,10 @@
 <div display="flex" justify-content="center">
 
 <br/>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ARahimLaskar)](https://github.com/ARahimLaskar/github-profile-trophy)
+
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=ARahimLaskar&theme=flat">
+</div>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ARahimLaskar&show_icons=true&locale=en&layout=compact" alt="ARahimLaskar" /></p>
 
