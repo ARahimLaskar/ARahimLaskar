@@ -1,8 +1,7 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Abdul Rahim Laskar </h1>
 
 
-
-<h3 align="left">I am pleased to introduce myself as a highly skilled and aspiring web developer with expertise in both front-end and back-end development. With a deep passion for creating innovative and user-centric web solutions, I have acquired comprehensive knowledge and hands-on experience in various web technologies and frameworks.</h3>
+<h3 align="left">A highly skilled and aspiring web developer with expertise in both front-end and back-end development. With a deep passion for creating innovative and user-centric web solutions, acquired comprehensive knowledge and hands-on experience in various web technologies and frameworks.</h3>
 <img align="right" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt=""/>
 </div>
 </p>    
@@ -30,7 +29,7 @@
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARahimLaskar&show_icons=true&theme=algolia&border_radius=20)
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ARahimLaskar&show_icons=true&theme=algolia&border_radius=20)
 
  ![GitHub Streak](https://streak-stats.demolab.com?user=ARahimLaskar&count_private=true&theme=algolia&border_radius=20)
 
@@ -38,7 +37,7 @@
 </div>
 
 ## 🏆 GitHub Trophies 
-![](https://github-profile-trophy.vercel.app/?username=sumit-saurabh98&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ARahimLaskar&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
