@@ -26,6 +26,7 @@
 </div>
 
 <div display="flex" align-items="center" justify-content="center">
+<h3>Git Statistics</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ARahimLaskar&show_icons=true&locale=en&layout=compact" alt="ARahimLaskar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ARahimLaskar&show_icons=true&locale=en" alt="ARahimLaskar" /></p>
