@@ -1,3 +1,19 @@
+<p>This is an example: <span class="example-selector"></span></p>
+
+<script src="dist/autotyping.min.js"></script>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const exampleText = ['I can write a whole sentence.', 'Or', 'single', 'words'];
+        const exampleTyping = new AutoTyping('.example-selector', exampleText, {
+            typeSpeed: 50,
+            deleteSpeed: 50,
+            waitBeforeDelete: 2000,
+            waitBetweenWords: 500,
+        });
+        exampleTyping.start()
+    });
+</script>
+
 <h1 align="center">Hi 👋, I'm Abdul Rahim Laskar</h1>
 <div display="flex">
 <h2 align="left">I am pleased to introduce myself as a highly skilled and aspiring web developer with expertise in both front-end and back-end development. With a deep passion for creating innovative and user-centric web solutions, I have acquired comprehensive knowledge and hands-on experience in various web technologies and frameworks.</h2>
